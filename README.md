@@ -3,10 +3,10 @@ Tools and resources to go from concept to MVP
 
 # 1. Vision
 ## Concepts  
- [Product Managers vs. Product Owners][product-managers-product-owners]  
- [Jobs To be done theory][jobs-to-be-done-theory]  
- [Designing Value Propositions][designing-value-propositions]  
- [On Product Market Fit][product-market-fit]
+ [Product Managers vs. Product Owners][product-managers-product-owners]     
+ [Jobs To be done theory][jobs-to-be-done-theory]    
+ [Designing Value Propositions][designing-value-propositions]   
+ [On Product Market Fit][product-market-fit]   
  
 ## Tools & Resources  
 [The Value Proposition Canvas][value-proposition-canvas]  
@@ -79,7 +79,7 @@ Chrome Extension to peek into the fonts used by any website
 
 ### Icons
 
-[Endless Icons][endless-icons]
+[Endless Icons][endless-icons]   
 Gallery of free icons at your disposal.  
 A search in google images that includes "icon", "svg" or "png" can also work well, just watch out for author rights!
 
@@ -104,7 +104,7 @@ And make sure that your layout looks good before you start designing
 [Dribble][dribble]  
 Kick-ass Design Inspiration
 
-[Call to Idea][call-to-idea]
+[Call to Idea][call-to-idea]   
 Components. Components Everywhere. Come here if you need a button, a card, a login form...
 
 [Material Design UI Kit][material-design-kit]  
@@ -138,7 +138,7 @@ Deep dive into relational database design.
 [internet-works]:https://www.youtube.com/watch?v=7_LPdttKXPc
 ## Tools and Resources
 
-[Database Designer][db-designer]
+[Database Designer][db-designer]   
 Use this to create database schemas on the browser!
 
 [db-designer]:https://www.dbdesigner.net
