@@ -20,15 +20,35 @@ Tools and resources to go from concept to MVP
 [value-proposition-canvas]:https://libwww.freelibrary.org/assets/pdf/programs/bric/value-proposition-canvas.pdf
 [product-market-fit]:https://a16z.com/2017/02/18/12-things-about-product-market-fit/
 
-# Features  
-## Concepts
+# 2. Features  
+## Concepts  
 [Understanding User Stories][understanding-user-stories]
-## Tools and Resources
+## Tools and Resources  
 [Trello Project Management Tool][trello-project-management-tool]  
-
+[User Story Pro Checklist][story-checklist]
 
 [trello-project-management-tool]:https://trello.com/
 [understanding-user-stories]:https://www.mountaingoatsoftware.com/agile/user-stories
-# Design
-# Tech and Databases
+[story-checklist]:https://www.process.st/checklist/user-story-template/
 
+
+# 3. Design
+## Learning About Design and UX
+
+## Tools and Resources
+
+### Getting around with Figma
+All you need will be at the [Figma Support Center][figma-support-center]
+### Colors  
+
+### Fonts  
+### Components and Other Cool things  
+
+[Structure your app with this][structure-your-app]
+
+[figma-support-center]:https://help.figma.com/]
+[structure-your-app]:https://freebiesupply.com/free-figma/free-sitemap-cards-made-with-figma/
+
+# 4. Tech and Databases
+## Concepts
+## Tools and Resources
