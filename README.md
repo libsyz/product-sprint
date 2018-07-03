@@ -3,9 +3,9 @@ Tools and resources to go from concept to MVP
 
 # Vision
 ## Concepts
- [Product Managers vs. Product Owners][product-managers-product-owners] --
- [Jobs To be done theory][jobs-to-be-done-theory] --
- [Designing Value Propositions][designing-value-propositions] --
+ [Product Managers vs. Product Owners][product-managers-product-owners]  
+ [Jobs To be done theory][jobs-to-be-done-theory]  
+ [Designing Value Propositions][designing-value-propositions]  
  
 ## Tools & Resources
 
