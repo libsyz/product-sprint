@@ -113,6 +113,7 @@ Import this into your figma project and get going.
 
 [material-design-kit]:https://ui-kit.co/
 [dribble]:https://dribbble.com/
+[call-to-idea]:https://calltoidea.com/
 
 [structure-your-app]:https://freebiesupply.com/free-figma/free-sitemap-cards-made-with-figma/
 
