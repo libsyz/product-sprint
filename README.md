@@ -34,7 +34,7 @@ Tools and resources to go from concept to MVP
 # 3. Design
 ## Learning More about Design and UX
 [SitePoint][site-point]  
-A bit aggressive on the sales, but good content and courses. 
+A bit commercially aggressive, but good content and courses. Their newsletters are also good.
 
 [A List Apart][a-list-apart]  
 Excellent content on content strategy, design, UX and all things web development.  
@@ -50,7 +50,19 @@ Google's opinion on how the digital world should look like. Excellent stuff
 
 ### Getting around with Figma
 All you need will be at the [Figma Support Center][figma-support-center]  
-### Colors  
+
+### Colors    
+[Coolors][coolors]  
+Great tool to create color themes without too much effort  
+
+[Material Design Palette][material-palette]  
+Instant Material Design Themes. Beautiful
+
+Also, consider downloading a *colorpicker extension* for snooping colors from websites that you like.
+
+[coolors]:https://coolors.co/
+[material-palette]:https://www.materialpalette.com/
+
 
 ### Fonts  
 ### Components and Other Cool things  
