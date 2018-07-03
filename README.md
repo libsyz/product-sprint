@@ -13,7 +13,6 @@ Tools and resources to go from concept to MVP
 
 
 
-
 [product-managers-product-owners]:https://www.romanpichler.com/blog/product-manager-vs-product-owner/
 [jobs-to-be-done-theory]:https://jobs-to-be-done.com/the-5-tenets-of-jobs-to-be-done-theory-ba58c3a093c1
 [designing-value-propositions]:http://designabetterbusiness.com/2017/10/12/how-to-really-understand-your-customer-with-the-value-proposition-canvas/
@@ -33,19 +32,30 @@ Tools and resources to go from concept to MVP
 
 
 # 3. Design
-## Learning About Design and UX
+## Learning More about Design and UX
+[SitePoint][site-point] . 
+A bit aggressive on the sales, but good content and courses. 
+
+[A List Apart][a-list-apart]  
+Excellent content on content strategy, design, UX and all things web development.  
+
+[Material Design Principles] [material-design] . 
+Google's opinion on how the digital world should look like. Excellent stuff
+
+[site-point]:https://www.sitepoint.com/
+[a-list-apart]:http://alistapart.com/
+[material-design]:https://material.io/
 
 ## Tools and Resources
 
 ### Getting around with Figma
-All you need will be at the [Figma Support Center][figma-support-center]
+All you need will be at the [Figma Support Center][figma-support-center] . 
 ### Colors  
 
 ### Fonts  
 ### Components and Other Cool things  
 
 [Structure your app with this][structure-your-app]
-
 [figma-support-center]:https://help.figma.com/]
 [structure-your-app]:https://freebiesupply.com/free-figma/free-sitemap-cards-made-with-figma/
 
