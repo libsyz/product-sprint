@@ -33,13 +33,13 @@ Tools and resources to go from concept to MVP
 
 # 3. Design
 ## Learning More about Design and UX
-[SitePoint][site-point] . 
+[SitePoint][site-point]  
 A bit aggressive on the sales, but good content and courses. 
 
 [A List Apart][a-list-apart]  
 Excellent content on content strategy, design, UX and all things web development.  
 
-[Material Design Principles] [material-design] . 
+[Material Design Principles][material-design]  
 Google's opinion on how the digital world should look like. Excellent stuff
 
 [site-point]:https://www.sitepoint.com/
@@ -49,14 +49,15 @@ Google's opinion on how the digital world should look like. Excellent stuff
 ## Tools and Resources
 
 ### Getting around with Figma
-All you need will be at the [Figma Support Center][figma-support-center] . 
+All you need will be at the [Figma Support Center][figma-support-center]  
 ### Colors  
 
 ### Fonts  
 ### Components and Other Cool things  
 
 [Structure your app with this][structure-your-app]
-[figma-support-center]:https://help.figma.com/]
+
+[figma-support-center]:https://help.figma.com/
 [structure-your-app]:https://freebiesupply.com/free-figma/free-sitemap-cards-made-with-figma/
 
 # 4. Tech and Databases
