@@ -21,8 +21,8 @@ Tools and resources to go from concept to MVP
 
 # 2. Features  
 ## Concepts  
-[Understanding User Stories][understanding-user-stories]
-[Deep Dive into Interaction Design][deep-dive-ai]
+[Understanding User Stories][understanding-user-stories]  
+[Deep Dive into Interaction Design][deep-dive-ai]  
 ## Tools and Resources  
 [Trello Project Management Tool][trello-project-management-tool]  
 [User Story Pro Checklist][story-checklist]
