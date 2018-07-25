@@ -42,7 +42,12 @@ A bit commercially aggressive, but good content and courses. Their newsletters a
 Excellent content on content strategy, design, UX and all things web development.  
 
 [Material Design Principles][material-design]  
-Google's opinion on how the digital world should look like. Excellent stuff
+Google's opinion on how the digital world should look like. Excellent stuff  
+
+[Building Design Systems][building-design-systems]   
+A resource to go in a full deep dive about how to set yourself up for proper design.
+
+[building-design-systems]:https://blog.figma.com/how-to-build-your-design-system-in-figma-645a4d96509f
 
 [site-point]:https://www.sitepoint.com/
 [a-list-apart]:http://alistapart.com/
