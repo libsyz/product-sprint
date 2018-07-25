@@ -67,6 +67,11 @@ Also, consider downloading a **colorpicker extension** for snooping colors from 
 [coolors]:https://coolors.co/
 [material-palette]:https://www.materialpalette.com/
 
+[Building Design Systems][building-design-systems]
+A resource to go in a full deep dive about how to set yourself up for proper design.
+
+[building-design-systems]:https://blog.figma.com/how-to-build-your-design-system-in-figma-645a4d96509f
+
 
 ### Fonts  
 
